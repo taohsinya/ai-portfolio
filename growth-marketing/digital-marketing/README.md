@@ -106,6 +106,7 @@ At **OpenSocial** (a social app platform) we didn't advertise the platform at al
 | Uplive | Paid ads in many markets, plus TV, metro and bus ads | **30M users in 50+ countries** in three years; ~US$10M yearly budget at up to **150% return on ad spend** |
 | Kikitrade | No paid ads: KOL referrals, deal sites, mini-classes, community | **200,000+ users**, about **US$3.5 per install**, **5%** of users funded their accounts, about **US$4M** cumulative revenue |
 | An AI investing app | Paid video ads, free stock lists and reports | **480,000 users** and **US$1M** in annual recurring revenue |
+| An AI money assistant (US market) | Paid video ads made with the AI video pipeline | About **US$2–3 per install** in the US |
 
 ## What I've learned
 
