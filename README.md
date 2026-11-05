@@ -39,6 +39,6 @@ For the last two years I have built with AI hands-on. This portfolio shows how: 
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/hsinyatao/) · [GitHub profile](https://github.com/taohsinya)
+[LinkedIn](https://www.linkedin.com/in/hsinyatao/) · [GitHub profile](https://github.com/taohsinya) · [繁體中文版](https://github.com/taohsinya/portfolio-zh-tw)
 
 Licensed under [CC BY-NC 4.0](LICENSE): free to use and adapt with credit, not for commercial use. Nothing here is investment advice.
