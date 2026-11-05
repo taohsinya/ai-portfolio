@@ -10,6 +10,7 @@ For the last two years I have built with AI hands-on. This portfolio shows how: 
 
 | Work | What it is |
 |---|---|
+| [Digital marketing](growth-marketing/digital-marketing/) | Turning an idea into ad-ready creative fast and testing it on YouTube, Meta and TikTok: study the best competitor ads, find the selling point and the 3-second punchline, spin one idea into many ads, scale what works |
 | [Past campaigns](growth-marketing/campaigns/) | Four campaigns, each told as problem → what I did → result: taking an app to 50+ countries with TV, metro and bus ads; "Never Trade Crypto Alone" and 500+ KOLs; community growth with weekly AMAs and events; bringing Western companies into Asia |
 | [Giving an AI product a soul](growth-marketing/brand-soul/) | How I wrote the personality and beliefs of an AI money assistant ("Finally, a money person on your side"), and how that one document shaped every ad, message and screen. Includes a fill-in template |
 | [AI video ads](growth-marketing/ai-video/) | Making video ads with AI: hook ideas → a strict AI scorer that kills weak ideas → storyboard → finished video, with one idea turned into 42 versions |
