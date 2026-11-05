@@ -14,7 +14,7 @@ For the last two years I have built with AI hands-on. This portfolio shows how: 
 | [Giving an AI product a soul](growth-marketing/brand-soul/) | How I wrote the personality and beliefs of an AI money assistant ("Finally, a money person on your side"), and how that one document shaped every ad, message and screen. Includes a fill-in template |
 | [AI video ads](growth-marketing/ai-video/) | Making video ads with AI: hook ideas → a strict AI scorer that kills weak ideas → storyboard → finished video, with one idea turned into 42 versions |
 | [AI content engine](growth-marketing/ai-content/) | A system that writes and publishes articles every day in English and Chinese, checks every fact before publishing, and raises an alert if it stops |
-| [Search and AI answers (SEO/GEO)](growth-marketing/seo-geo/) | Getting found on Google and cited by AI assistants, mapping what people search at each stage, and writing ads that stay inside financial-advertising rules |
+| [Search and AI answers (SEO/GEO)](growth-marketing/seo-geo/) | Helping companies show up faster in Google AI Overviews, ChatGPT and other AI assistants, with SEO as the foundation: mapping what people search at each stage, and writing ads that stay inside financial-advertising rules |
 
 ▶️ Watch: [Uplive TV commercial](https://www.youtube.com/watch?v=FCjL-Ua7jKA) · ["The Vet" brand video](https://www.youtube.com/watch?v=LMzKBIJ2rzk)
 
