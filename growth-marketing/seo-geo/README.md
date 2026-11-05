@@ -1,5 +1,7 @@
 # Getting Found in Search and AI Answers — Inside Financial-Ad Rules
 
+**What I do: help companies show up faster in Google AI Overviews, ChatGPT and other AI assistants, and get found on Google.**
+
 **Context:** growth for an AI money assistant (a consumer app that reads a
 person's accounts and gives them a check-up on their finances). The product is
 **not** a licensed adviser, so every page and ad had to stay on the right side
@@ -17,6 +19,8 @@ claimed here.**
 
 ---
 
+
+**Full method, with research and results: [methodology.md](methodology.md).** The goal now is to be **cited in AI answers**, with SEO as the foundation. In short: map intent, study competitors, pick the fight your site can win, write pages AI can quote, build authority off-site, make sure Google indexes it, and measure. I have applied it to an AI investing app I co-founded, and coached BlockTempo, a Taiwan media brand, on SEO strategy.
 
 ## My playbook
 
