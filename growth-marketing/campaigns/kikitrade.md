@@ -21,7 +21,12 @@ The slogan was **"Never Trade Crypto Alone."** It told people what was different
 **3. Used people, not just ads, to spread the word.**
 A social product should grow through people. We worked closely with **500+ KOLs** (key opinion leaders, or online influencers) across Hong Kong and Taiwan. They brought their own followers into the app, and those followers made the community feel alive for the next user.
 
-**4. Watched a small set of numbers.**
+**4. Grew without paid ads.** Crypto products are heavily restricted on the big ad platforms, so we used three other channels:
+- **Referral rewards with KOLs:** when someone a KOL referred signed up and became active, we paid a reward.
+- **Deal and coupon sites:** partnerships with Hong Kong "jetso" platforms, promoted with sign-up codes.
+- **Free mini-classes:** podcast-style classes with KOLs, then bringing listeners into the community and staying in touch on social media.
+
+**5. Watched a small set of numbers.**
 - Cost per install (CPI): what it costs to get one person to download the app.
 - Funded conversion: the share of users who actually put money in.
 
